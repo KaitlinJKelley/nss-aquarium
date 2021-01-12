@@ -1,5 +1,6 @@
 const fishCollection = [
     {
+        image: './images/Bart.jpg',
         name: "Bart",
         food: "crustaceans",
         species: "Amphiprioninae",
