@@ -1,26 +1,47 @@
 const fishCollection = [
     {
-        name: "Bart",
-        food: "crustaceans",
-        species: "Amphiprioninae",
-        location: "Great Barrier Reef, Australia",
-        length: 2
+        image: "./images/Jerry.jpg",
+        name: "Name: Jerry",
+        food: "Favorite Food: shrimp",
+        species: "Species: Mickey Mouse Platy",
+        location: "Home: Guatemala",
+        length: "Length: 2 inches"
     },
 
     {
-        name: "Marlin",
-        food: "crustaceans",
-        species: "Angel Fish",
-        location: "Atlantic Ocean",
-        length: 5
+        image: "./images/Tom.jpeg",
+        name: "Name: Tom",
+        food: "Favorite Food: algae",
+        species: "Species: Mekong Giant Catfish (Endangered)",
+        location: "Home: China",
+        length: "Length: 9 feet"
     },
 
     {
-        name: "Marlina",
-        food: "crustaceans",
-        species: "Lion Fish",
-        location: "Pacifice Ocean",
-        length: 3
+        image: "./images/Simba.jpeg",
+        name: "Name: Simba",
+        food: "Favorite Food: Smaller Fish",
+        species: "Species: Lion Fish (Invasive)",
+        location: "Home: Indo-Pacific Region",
+        length: "Length: 18 inches"
+    },
+
+    {
+        image: "./images/Tigger.JPG",
+        name: "Name: Tigger",
+        food: "Favorite Food: Smaller Fish",
+        species: "Species: Goliath Tiger Fish",
+        location: "Home: Congo River Basin",
+        length: "Length: 5 feet"
+    },
+
+    {
+        image: "./images/Eeyore.jpeg",
+        name: "Name: Eeyore",
+        food: "Favorite Food: Smaller Fish and Crustaceans",
+        species: "Species: Donkey Fish",
+        location: "Home: All Over",
+        length: "Length: 30 inches"
     }
 ]
 
