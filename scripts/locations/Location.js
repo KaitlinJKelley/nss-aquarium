@@ -1,5 +1,3 @@
-
-
 export const locationCard = (location) => {
     return `
     <div class="locationCard">
