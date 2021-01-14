@@ -15,4 +15,6 @@ import { quoteList } from "./quotes/QuoteList.js"
 
 quoteList()
 
+import { locationList } from "./locations/LocationList.js"
 
+locationList()
