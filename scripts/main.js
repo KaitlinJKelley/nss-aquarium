@@ -17,3 +17,6 @@ import { tipList } from "./tips/TipList.js"
 
 tipList()
 
+import { nonHolyFish } from "./fish/FishDataProvider.js"
+
+console.log(nonHolyFish())
