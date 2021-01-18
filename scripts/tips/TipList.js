@@ -12,7 +12,9 @@ export const tipList = () => {
 
     contentElement.innerHTML += `
     <div class="containerRight__content">
+        <ul>
         ${tipHTML}        
+        </ul>
     </div>
     `
 }
