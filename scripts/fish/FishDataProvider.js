@@ -66,7 +66,7 @@ export const soldierFish = () => {
     const soldiers = []
 
     for (const soldier of fishCollection) {
-        if (fish.length % 5 === 0) {
+        if (soldier.length % 5 === 0) {
             soldiers.push(soldier)
         }
     }
